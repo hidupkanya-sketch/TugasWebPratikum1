@@ -8,8 +8,10 @@ https://pratikumwebsite.netlify.app
 
 ## Fitur Utama
 - Responsif: Tampilan sudah disesuaikan untuk Desktop, Tablet, dan Mobile.
-- Navigasi Fixed: Navbar akan mengikuti saat di-scroll.
-- Form Validation & DOM: Form kontak menggunakan event listener pada JS untuk mencegah refresh halaman default dan memunculkan pop-up alert sukses.
+- Navigasi Fixed: Navbar akan mengikuti saat di scroll.
+- Bagian Perkenalan Utama : Ringkasan singkat profil awal beserta tombol pintas yang mengarah langsung ke daftar proyek.
+- Galeri Proyek: Kartu karya yang rapi dengan efek animasi hover.
+- Form Validasi: Form kontak menggunakan event listener pada JS untuk mencegah refresh halaman default dan memunculkan pop up  sukses.
 
 ## Tangkapan Layar (Screenshot)
 <img width="1919" height="972" alt="Screenshot 2026-09-24 214931" src="https://github.com/user-attachments/assets/86ee7788-bd67-4d5a-9605-a19434f2be4f" />
